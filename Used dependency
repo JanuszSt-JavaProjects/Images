@@ -1,0 +1,1 @@
+    implementation group: 'org.apache.maven.plugins', name: 'maven-war-plugin', version: '3.3.1'
